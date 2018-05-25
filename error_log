@@ -1,0 +1,6 @@
+1463979039: /home2/truartsi/public_html/ssv3_payload_extractor-YJb77a29AZ.php startup
+1463979162: /home2/truartsi/public_html/ssv3_backup_payload-1uw4reqsf2.php startup
+1463979182: /home2/truartsi/public_html/ssv3_payload_extractor-zFLbZ6b4Ta.php startup
+[08-Aug-2016 12:43:02] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/truartsi/public_html/wp-settings.php on line 21
+[09-Aug-2016 14:36:21] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/truartsi/public_html/wp-settings.php on line 21
+[17-Sep-2016 05:21:58] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/truartsi/public_html/wp-settings.php on line 21
